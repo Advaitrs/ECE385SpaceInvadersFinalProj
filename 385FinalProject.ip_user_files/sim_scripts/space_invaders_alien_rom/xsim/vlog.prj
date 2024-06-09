@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../lab6_2.gen/sources_1/ip/space_invaders_alien_rom/sim/space_invaders_alien_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
