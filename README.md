@@ -1,3 +1,0 @@
-# ECE385SpaceInvadersFinalProj
-ECE 385 Final Project -Space Invaders
-The game is based off of space invaders arcade game. Player can use A and D keyboard keys to move the alien character. The player can use a spacebar to shoot the aliens. whenever the player shoots, a sound is made. Aliens can also shoot the player using a random logic using linear feedback shift register. This was all done in system verilog. IF the player gets shot, there's game ending screen and it shows that we need to press the reset button to replay the game and also that the state of the player/spaceship has changed because the sprite changes to a "dead spaceship".
